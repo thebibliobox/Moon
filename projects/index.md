@@ -1,6 +1,6 @@
 ---
 layout: project
 title: Favourite Boxes
-excerpt: "A List of Boxes available through the year."
+excerpt: "Out all-time favourite boxes."
 comments: false
 ---
