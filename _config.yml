@@ -60,6 +60,9 @@ instagram:          thebibliobox
 #xmpp:              username@server.com
 #hackernews:        username
 
+
+baseurl: "/thebiblioboxwebsite"
+
 # Gems
 gems:
   - jekyll-mentions
@@ -67,8 +70,8 @@ gems:
   - jekyll-sitemap
   - jekyll-gist
 
-jekyll-mentions:
-    base_url: "/thebiblioboxwebsite"
+#jekyll-mentions:
+#    base_url: "/thebiblioboxwebsite"
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
