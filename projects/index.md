@@ -1,6 +1,6 @@
 ---
 layout: project
-title: All Projects
-excerpt: "A List of Projects"
+title: Anytime Boxes
+excerpt: "A List of Boxes available through the year."
 comments: false
 ---

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About Us
-tags: [about, Jekyll, theme, moon]
 date: 2016-11-26
 comments: false
 ---

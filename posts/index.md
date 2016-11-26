@@ -1,6 +1,6 @@
 ---
 layout: post-list
-title: All Posts
-excerpt: "A List of Posts"
+title: Monthly Boxes
+excerpt: "A List of our Monthly Boxes."
 comments: false
 ---
