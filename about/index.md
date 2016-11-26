@@ -1,37 +1,14 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About Us
+date: 2016-11-26
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+While one was on a lookout for an idea, the other wanted a book subscription box that catered to her bookish whims without costing a bomb — that is precisely how The BiblioBox happened! We are a Bangalore-based book subscription box, fulfilling your monthly bookish needs with thoughtfully-curated monthly and customized boxes, bringing to you all things books! While the trend of subscription boxes is taking the world by a storm, it is slowly, yet surely, making its way to the Indian Subcontinent.
 
-## Preview
+While most boxes around the world cater to a specific genre or an age group, we, at The BiblioBox, aim to satisfy every palette. Whether you dig classics, or crime, or fantasy, or young adult fiction, we have something for each of you.
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+Apart from just sending two books, instead of the usual practice of one book per box, we also have a huge array of bookish merchandise that is either specifically designed by an artist, or done in-house. Bringing book-nerd delights to bibliophiles in the land of diversity with diverse themes each month, apart from customized boxes tailored as per your needs, we are here to satiate all your bookish cravings!
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+Go, indulge!

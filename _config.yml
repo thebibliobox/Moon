@@ -8,7 +8,7 @@ logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_IN
-url:                http://taylantatli.github.io/Moon
+#url:                "http://thebibliobox.github.io/thebiblioboxwebsite"
 
 # Jekyll
 permalink:          /:title/
@@ -60,6 +60,9 @@ instagram:          thebibliobox
 #xmpp:              username@server.com
 #hackernews:        username
 
+
+baseurl: "/thebiblioboxwebsite/"
+
 # Gems
 gems:
   - jekyll-mentions
@@ -67,8 +70,8 @@ gems:
   - jekyll-sitemap
   - jekyll-gist
 
-jekyll-mentions:
-    base_url: https://github.com/thebibliobox
+#jekyll-mentions:
+#    base_url: "/thebiblioboxwebsite"
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
