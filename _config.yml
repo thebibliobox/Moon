@@ -61,7 +61,7 @@ instagram:          thebibliobox
 #hackernews:        username
 
 
-baseurl: "/thebiblioboxwebsite"
+baseurl: "/thebiblioboxwebsite/"
 
 # Gems
 gems:
