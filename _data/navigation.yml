@@ -1,4 +1,6 @@
 # Site navigation links
 
-- title: Projects
-  url: /projects/
+- title: Favourites
+  url: projects/
+- title: Legal
+  url: terms/
